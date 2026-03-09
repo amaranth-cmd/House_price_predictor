@@ -1,6 +1,9 @@
 # House_price_predictor
 This is a repository containing files on a LinearRegression model trained on housing prices to predict price of houses depending on certain features. There's also a streamlit app enclosed, which when it's link is used will require characteristics of the house in question to give predictions. 
 
+Found at this link:
+https://housepricepredictor-qrox3hjclx6wcph8ppyy8j.streamlit.app/
+
 # DATA SET USED
 The data data set used is a Housing.csv included in the repository. 
 
